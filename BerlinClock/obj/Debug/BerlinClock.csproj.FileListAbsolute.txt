@@ -1,0 +1,7 @@
+C:\Playground\Katas\BerlinClock\BerlinClock\bin\Debug\BerlinClock.exe.config
+C:\Playground\Katas\BerlinClock\BerlinClock\bin\Debug\BerlinClock.exe
+C:\Playground\Katas\BerlinClock\BerlinClock\bin\Debug\BerlinClock.pdb
+C:\Playground\Katas\BerlinClock\BerlinClock\obj\Debug\BerlinClock.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\BerlinClock\BerlinClock\obj\Debug\BerlinClock.exe
+C:\Playground\Katas\BerlinClock\BerlinClock\obj\Debug\BerlinClock.pdb
+C:\Playground\Katas\BerlinClock\BerlinClock\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache

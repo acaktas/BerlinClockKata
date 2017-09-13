@@ -1,0 +1,11 @@
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\BerlinClockTest.dll
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\BerlinClockTest.pdb
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\nunit.framework.dll
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\nunit.framework.xml
+C:\Playground\Katas\BerlinClock\BerlinClockTest\obj\Debug\BerlinClockTest.csprojResolveAssemblyReference.cache
+C:\Playground\Katas\BerlinClock\BerlinClockTest\obj\Debug\BerlinClockTest.csproj.CoreCompileInputs.cache
+C:\Playground\Katas\BerlinClock\BerlinClockTest\obj\Debug\BerlinClockTest.dll
+C:\Playground\Katas\BerlinClock\BerlinClockTest\obj\Debug\BerlinClockTest.pdb
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\BerlinClock.exe
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\BerlinClock.pdb
+C:\Playground\Katas\BerlinClock\BerlinClockTest\bin\Debug\BerlinClock.exe.config
